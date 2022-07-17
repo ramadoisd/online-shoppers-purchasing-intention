@@ -27,6 +27,7 @@ The purpose of this project is to analyze the purchasing behavior patterns of e-
 * presentation-appendix.ipynb: this notebook contains all data visualizations for presentation slides and the details of business simulation, a calculation of increased conversion rate after applying an actionable recommendation.
 * Final Project Presentation Slides.pdf: summary of the project.
 * requirements.txt: list of used libraries with its version.
+
 **Folder Dictionaries**
 
 * Stage 0 - Stage 4: the progress of the project per each stage.
