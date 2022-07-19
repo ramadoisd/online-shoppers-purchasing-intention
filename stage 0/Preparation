@@ -1,0 +1,40 @@
+Kelompok: Anaconda
+
+Anggota
+* Muhammad Irfan Fadhlurrahman
+*	Ramado Dipradelana I
+* Deni Indra Permana
+* Bima Purnomo Sandi
+
+**Dataset:** 
+Online Shoppers Purchasing Intention
+
+**Stage 0 - Preparation**
+
+**Role**
+Sebagai tim data scientist suatu perusahan ecommerce PT Anaconda, bertanggung jawab untuk menganalisa data-data yang berkaitan dengan 
+perilaku visitor terkini dan potensi peningkatan jumlah pengunjung yang menghasilkan revenue untuk menyusun strategi pemasaran yang lebih tetap sasaran.
+
+**Problem Statement**
+Tren belanja online di Indonesia berkembang sangat pesat. 
+Jumlah konsumen yang belanja online di Indonesia sebanyak 32 juta orang pada 2021 dengan total transaksi 401 triliun rupiah. Kenaikan jumlah konsumen mencapai 88 persen dibandingkan pada tahun 2020 yang hanya 17 juta orang. Hal ini terjadi karena pandemi COVID-19 yang merubah perilaku konsumen akibat harus beraktivitas di rumah sejak 2020.
+Sehingga momentum ini perlu dimanfaatkan perusahaan untuk meningkatkan revenue. Namun seiring dengan perkembangan jumlah konsumen yang pesat juga menimbulkan persaingan yang lebih kompetitif di antara e-commerce. 
+Perusahaan ecommerce Anaconda mencatat hanya mendapatkan revenue dari 15% total pengunjung website atau sebanyak (1908 pengunjung). Hal ini menunjukkan mayoritas pengunjung website hanya sekedar mengunjungi website tanpa melakukan transaksi apapun.
+Agar perusahaan tidak kalah bersaing dengan kompetitor lain dan menjadi penyedia belanja online nomor 1 di Indonesia, Perusahaan Anaconda harus meningkatkan purchase rate yaitu jumlah pengunjung website yang melakukan transaksi sehingga menghasilkan revenue per total pengunjung website. 
+Untuk meningkatkan purchase rate menjadi lebih dari 15% maka harus menganalisis data perilaku-perilaku pengunjung website untuk menemukan insights sebagai acuan untuk memberikan rekomendasi aksi serta membuat machine learning model untuk memprediksi apakah seorang pengunjung website akan menghasilkan revenue atau tidak.
+
+
+**Goals**
+Meningkatkan jumlah pengunjung website yang menghasilkan revenue hingga 25% dari total pengunjung website.
+
+**Objective**
+* Memberikan insights dan rekomendasi aksi untuk meningkatkan jumlah pengunjung website yang menghasilkan revenue. 
+* Membuat machine learning model untuk memprediksi apakah seorang pengunjung website akan menghasilkan revenue atau tidak
+* Menganalisis perilaku pengunjung website yang tidak melakukan transaksi
+
+**Business Metrics**
+* Purchase rate: jumlah pengunjung website yang menghasilkan revenue per total pengunjung website
+
+**Reference**
+* https://www.cnnindonesia.com/ekonomi/20211229141536-92-740093/konsumen-belanja-online-ri-melonjak-88-persen-pada-2021#:~:text=NielsenIQ%20mencatat%20jumlah%20konsumen%20belanja,yang%20hanya%2017%20juta%20orang.
+* https://ekonomi.bisnis.com/read/20220127/9/1494047/bi-catat-nilai-transaksi-e-commerce-tembus-rp401-triliun-pada-2021
