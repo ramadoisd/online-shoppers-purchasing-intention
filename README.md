@@ -31,4 +31,4 @@ The purpose of this project is to analyze the purchasing behavior patterns of e-
 **Folder Dictionaries**
 
 * Stage 0 - Stage 4: the progress of the project per each stage.
-* dataset: the original data from Kaggle and the data that has been preprocessed.
+* online_shoppers_intention.csv: the original data from Kaggle and the data that has been preprocessed.
